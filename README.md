@@ -1,0 +1,1 @@
+On my quest to become a Web Developer, I have embarked in The Odin Project. The first project is to come up with a bare bones Recipe website. This is my first installment of that project.
